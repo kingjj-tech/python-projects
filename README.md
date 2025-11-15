@@ -1,5 +1,4 @@
 
-Certainly! Below is a README file tailored to your project, providing a comprehensive guide without including the actual code:
 
 ---
 
